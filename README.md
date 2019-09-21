@@ -17,11 +17,5 @@ $ snake-game --help
 
   Usage
     $ snake-game
-
-  Options
-    --name  Your name
-
-  Examples
-    $ snake-game --name=Jane
-    Hello, Jane
+    
 ```
